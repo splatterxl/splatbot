@@ -1,0 +1,2 @@
+# splatbot
+Various personal automatons 
